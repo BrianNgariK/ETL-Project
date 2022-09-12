@@ -19,6 +19,5 @@ In this project, you will assume the role of data engineer working for an intern
  + Web scraping
  + Combining data from various file formats
 
-
 ## Environment
 * conda 4.12.0
